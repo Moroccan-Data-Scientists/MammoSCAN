@@ -1,4 +1,4 @@
-# MedSCAN AI
+# MammoSCAN
 
 ## Overview:
-This project involves analyzing medical scan images to identify diseases using Machine Learning models.
+This project involves analyzing medical scan images to detect Breast Cancer.
